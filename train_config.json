@@ -1,0 +1,7 @@
+{
+    "model_args": {},
+    "data_args": {
+        "msa_path": "workflow/make_dataset/results/dataset/data/"
+    },
+    "training_args": {}
+}
